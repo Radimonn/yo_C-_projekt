@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projekt_fakt\\Projekt_fakt\\Projekt_fakt.csproj": {}
+    "\\\\ad.skolakrizik.cz\\Data\\Homes\\radim.slavik\\Desktop\\Projekt_fakt\\Projekt_fakt\\Projekt_fakt.csproj": {}
   },
   "projects": {
-    "D:\\Projekt_fakt\\Projekt_fakt\\Projekt_fakt.csproj": {
+    "\\\\ad.skolakrizik.cz\\Data\\Homes\\radim.slavik\\Desktop\\Projekt_fakt\\Projekt_fakt\\Projekt_fakt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projekt_fakt\\Projekt_fakt\\Projekt_fakt.csproj",
+        "projectUniqueName": "\\\\ad.skolakrizik.cz\\Data\\Homes\\radim.slavik\\Desktop\\Projekt_fakt\\Projekt_fakt\\Projekt_fakt.csproj",
         "projectName": "Projekt_fakt",
-        "projectPath": "D:\\Projekt_fakt\\Projekt_fakt\\Projekt_fakt.csproj",
+        "projectPath": "\\\\ad.skolakrizik.cz\\Data\\Homes\\radim.slavik\\Desktop\\Projekt_fakt\\Projekt_fakt\\Projekt_fakt.csproj",
         "packagesPath": "C:\\Users\\radim.slavik\\.nuget\\packages\\",
-        "outputPath": "D:\\Projekt_fakt\\Projekt_fakt\\obj\\",
+        "outputPath": "\\\\ad.skolakrizik.cz\\Data\\Homes\\radim.slavik\\Desktop\\Projekt_fakt\\Projekt_fakt\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\radim.slavik\\AppData\\Roaming\\NuGet\\NuGet.Config"
