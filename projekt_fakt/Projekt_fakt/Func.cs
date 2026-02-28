@@ -1,8 +1,17 @@
-namespace Projekt_fakt;
+namespace Aréna_RPG;
 
-public class Func
+public interface ISpecialAbility
 {
-    public int GetDmG();
-    public int CalcGameState();
-    
+    void UseSpecialAbility(Character target);
+}
+
+public interface IAttacker
+{
+    int Attack(IAttackable target);
+}
+
+public interface IAttackable
+{
+    int CurrentHP { get; set; }
+    void TakeDamage(int amount);
 }

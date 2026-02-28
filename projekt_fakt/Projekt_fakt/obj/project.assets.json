@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\radim.slavik\\.nuget\\packages\\": {}
+    "C:\\Users\\HP\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projekt_fakt\\Projekt_fakt\\Projekt_fakt.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\RiderProjects\\yo_C-_projekt\\projekt_fakt\\Projekt_fakt\\Projekt_fakt.csproj",
       "projectName": "Projekt_fakt",
-      "projectPath": "D:\\Projekt_fakt\\Projekt_fakt\\Projekt_fakt.csproj",
-      "packagesPath": "C:\\Users\\radim.slavik\\.nuget\\packages\\",
-      "outputPath": "D:\\Projekt_fakt\\Projekt_fakt\\obj\\",
+      "projectPath": "C:\\Users\\HP\\RiderProjects\\yo_C-_projekt\\projekt_fakt\\Projekt_fakt\\Projekt_fakt.csproj",
+      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\HP\\RiderProjects\\yo_C-_projekt\\projekt_fakt\\Projekt_fakt\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\radim.slavik\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\radim.slavik\\.dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\HP\\.dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,0 +1,15 @@
+C:\Users\HP\RiderProjects\yo_C-_projekt\projekt_fakt\Projekt_fakt\obj\Debug\net9.0\Projekt_fakt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\RiderProjects\yo_C-_projekt\projekt_fakt\Projekt_fakt\obj\Debug\net9.0\Projekt_fakt.AssemblyInfoInputs.cache
+C:\Users\HP\RiderProjects\yo_C-_projekt\projekt_fakt\Projekt_fakt\obj\Debug\net9.0\Projekt_fakt.AssemblyInfo.cs
+C:\Users\HP\RiderProjects\yo_C-_projekt\projekt_fakt\Projekt_fakt\obj\Debug\net9.0\Projekt_fakt.csproj.CoreCompileInputs.cache
+C:\Users\HP\RiderProjects\yo_C-_projekt\projekt_fakt\Projekt_fakt\obj\Debug\net9.0\Projekt_fakt.sourcelink.json
+C:\Users\HP\RiderProjects\yo_C-_projekt\projekt_fakt\Projekt_fakt\bin\Debug\net9.0\Projekt_fakt.exe
+C:\Users\HP\RiderProjects\yo_C-_projekt\projekt_fakt\Projekt_fakt\bin\Debug\net9.0\Projekt_fakt.deps.json
+C:\Users\HP\RiderProjects\yo_C-_projekt\projekt_fakt\Projekt_fakt\bin\Debug\net9.0\Projekt_fakt.runtimeconfig.json
+C:\Users\HP\RiderProjects\yo_C-_projekt\projekt_fakt\Projekt_fakt\bin\Debug\net9.0\Projekt_fakt.dll
+C:\Users\HP\RiderProjects\yo_C-_projekt\projekt_fakt\Projekt_fakt\bin\Debug\net9.0\Projekt_fakt.pdb
+C:\Users\HP\RiderProjects\yo_C-_projekt\projekt_fakt\Projekt_fakt\obj\Debug\net9.0\Projekt_fakt.dll
+C:\Users\HP\RiderProjects\yo_C-_projekt\projekt_fakt\Projekt_fakt\obj\Debug\net9.0\refint\Projekt_fakt.dll
+C:\Users\HP\RiderProjects\yo_C-_projekt\projekt_fakt\Projekt_fakt\obj\Debug\net9.0\Projekt_fakt.pdb
+C:\Users\HP\RiderProjects\yo_C-_projekt\projekt_fakt\Projekt_fakt\obj\Debug\net9.0\Projekt_fakt.genruntimeconfig.cache
+C:\Users\HP\RiderProjects\yo_C-_projekt\projekt_fakt\Projekt_fakt\obj\Debug\net9.0\ref\Projekt_fakt.dll
